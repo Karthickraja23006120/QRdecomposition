@@ -49,8 +49,7 @@ a=np.array(eval(input()))
 QR_Decomposition(A)
 ```
 ## Output
-![output](/Screenshot%202023-07-25%20073534.jpg)
-![output](/Screenshot%202023-07-25%20073902.jpg)
+![output](/Screenshot%202023-07-31%20185214.png)
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
